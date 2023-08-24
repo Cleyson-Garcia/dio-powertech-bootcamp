@@ -31,7 +31,7 @@ while True:
         elif valor > saldo:
             print("Tentativa de saque acima do saldo. Operação cancelada.")
 
-        elif numero_saques == 3:
+        elif numero_saques == LIMITE_SAQUES:
             print("Tentativa de saque acima do limite de saques diários. Operação cancelada.")
 
         else:
