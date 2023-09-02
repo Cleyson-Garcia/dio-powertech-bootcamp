@@ -13,3 +13,8 @@ Inserção de dados para testes.
 
 - Querys
 Buscas realizadas para realização da atividade e validação lógica da construção.
+
+## Definição do schema
+
+O banco de dados tem o objetivo de atender uma pequena oficina de reparos no setor de computadores.
+Possuindo apenas um funcionário, não tendo divisão do trabalho realizado e apenas os dados essenciais para atender os clientes e fornecedores.
