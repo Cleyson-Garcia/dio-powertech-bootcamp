@@ -1,0 +1,15 @@
+# Projeto Ecommerce
+
+Atividades realizadas para o banco de dados ecommerce.
+
+- e-commerce.mwb
+Modelo EER do banco de dados usado como base para a construção do banco de dados.
+
+- Configurações
+Contrução das tabelas e restrições.
+
+- Inserts
+Inserção de dados para testes.
+
+- Querys
+Buscas realizadas para realização da atividade e validação lógica da construção.

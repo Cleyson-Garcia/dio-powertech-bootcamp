@@ -1,0 +1,3 @@
+# Potência Tech powered by iFood | Ciência de Dados.
+
+Cada desafio solicitado está em organizado por pastas para fácil agrupamento e localização das atividades realizadas.

@@ -1,0 +1,3 @@
+# Projetos Python
+
+Projetos python realizados com base nos cursos fornecidos utilizando o conhecimento básico para montar o esqueleto simplificado de um futuro controle de contas.
